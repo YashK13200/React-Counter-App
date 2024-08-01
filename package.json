@@ -2,6 +2,7 @@
   "name": "01counter",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://yashk13200.github.io/React-BG-ChangerApp",
   "type": "module",
   "scripts": {
     "dev": "vite",
